@@ -8,6 +8,8 @@ mov = VideoReader('W22_1.avi');
 frames = size(mov,2);
 mycounter = 1;  
 
+%first change :D
+
 figures = [];
 startf = 1;
 endf = 1000;
